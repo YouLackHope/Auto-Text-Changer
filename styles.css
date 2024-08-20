@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Bungee', sans-serif;
+    font-weight: 400;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    align-items: center;
+    display: flex;
+    background-color: darkgreen;
+    justify-content: center;
+}
+
+h1 {
+    color: white;
+}
